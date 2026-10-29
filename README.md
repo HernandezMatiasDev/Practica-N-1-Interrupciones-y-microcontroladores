@@ -8,8 +8,8 @@ Los programas están escritos en C para microcontroladores PIC, se compilan con 
 
 | Archivo | Microcontrolador | Descripción |
 |---|---|---|
-| `[ejercicio_1.c](ejercicio_1.c)` | PIC16F84A | Dos LEDs (RB4 y RB5) que alternan cada 250 ms usando `__delay_ms`. Arrancan encendidos y empiezan a titilar al presionar un pulsador (RA0 o RA1). |
-| `ejercicio_2.c` | PIC16F84A | Misma funcionalidad que el ejercicio 1, pero usando el **Timer0** con prescaler 1:256 y su **interrupción** para alternar los LEDs. |
+| [ejercicio_1.c](ejercicio_1.c) | PIC16F84A | Dos LEDs (RB4 y RB5) que alternan cada 250 ms usando `__delay_ms`. Arrancan encendidos y empiezan a titilar al presionar un pulsador (RA0 o RA1). |
+| `[ejercicio_2.c](ejercicio_2.c)` | PIC16F84A | Misma funcionalidad que el ejercicio 1, pero usando el **Timer0** con prescaler 1:256 y su **interrupción** para alternar los LEDs. |
 | `ejercicio_3.c` | PIC16F877 | Lectura de una entrada analógica (AN0) por **polling** y visualización del valor decimal en 4 displays de 7 segmentos a través de dos latches 74LS373. |
 
 ## Resumen de cada ejercicio
