@@ -1,6 +1,6 @@
 # Práctica Nº 1 - Interrupciones y microcontroladores
 
-Resolución del [Práctica_Nro_1.pdf](Trabajo Práctico Nº 1) de Programación en Tiempo Real (Ingeniería en Informática, UNAJ).
+Resolución del [Practica_Nro_1.pdf](Trabajo Práctico Nº 1) de Programación en Tiempo Real (Ingeniería en Informática, UNAJ).
 
 Los programas están escritos en C para microcontroladores PIC, se compilan con **HI-TECH PICC (modo Lite)** y se simulan en **ISIS (Proteus)**.
 
